@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/rooms/static/css/main.b8f4740d.chunk.css",
+    "main.js": "/rooms/static/js/main.f6825511.chunk.js",
+    "main.js.map": "/rooms/static/js/main.f6825511.chunk.js.map",
+    "runtime-main.js": "/rooms/static/js/runtime-main.3bfb9811.js",
+    "runtime-main.js.map": "/rooms/static/js/runtime-main.3bfb9811.js.map",
+    "static/js/2.fdc122cf.chunk.js": "/rooms/static/js/2.fdc122cf.chunk.js",
+    "static/js/2.fdc122cf.chunk.js.map": "/rooms/static/js/2.fdc122cf.chunk.js.map",
+    "static/js/3.87d6d7e0.chunk.js": "/rooms/static/js/3.87d6d7e0.chunk.js",
+    "static/js/3.87d6d7e0.chunk.js.map": "/rooms/static/js/3.87d6d7e0.chunk.js.map",
+    "index.html": "/rooms/index.html",
+    "static/css/main.b8f4740d.chunk.css.map": "/rooms/static/css/main.b8f4740d.chunk.css.map",
+    "static/js/2.fdc122cf.chunk.js.LICENSE.txt": "/rooms/static/js/2.fdc122cf.chunk.js.LICENSE.txt",
+    "static/media/desktop-image-hero-1.91901d0d.jpg": "/rooms/static/media/desktop-image-hero-1.91901d0d.jpg",
+    "static/media/desktop-image-hero-2.9d354056.jpg": "/rooms/static/media/desktop-image-hero-2.9d354056.jpg",
+    "static/media/desktop-image-hero-3.05fd679a.jpg": "/rooms/static/media/desktop-image-hero-3.05fd679a.jpg",
+    "static/media/icon-arrow.84087786.svg": "/rooms/static/media/icon-arrow.84087786.svg",
+    "static/media/icon-close.3e88bd6e.svg": "/rooms/static/media/icon-close.3e88bd6e.svg",
+    "static/media/icon-hamburger.dc022bac.svg": "/rooms/static/media/icon-hamburger.dc022bac.svg",
+    "static/media/image-about-dark.329bbc44.jpg": "/rooms/static/media/image-about-dark.329bbc44.jpg",
+    "static/media/logo.8fad0542.svg": "/rooms/static/media/logo.8fad0542.svg",
+    "static/media/mobile-image-hero-1.5de3d147.jpg": "/rooms/static/media/mobile-image-hero-1.5de3d147.jpg",
+    "static/media/mobile-image-hero-2.51db290a.jpg": "/rooms/static/media/mobile-image-hero-2.51db290a.jpg",
+    "static/media/mobile-image-hero-3.601d0f37.jpg": "/rooms/static/media/mobile-image-hero-3.601d0f37.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3bfb9811.js",
+    "static/js/2.fdc122cf.chunk.js",
+    "static/css/main.b8f4740d.chunk.css",
+    "static/js/main.f6825511.chunk.js"
+  ]
+}
