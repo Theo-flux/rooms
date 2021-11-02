@@ -8,7 +8,7 @@ const AppElement = styled.div`
 `
 
 const Offset = styled.section`
-  transition: .5s background-color ease-in; 
+   
 `
 
 function App() {

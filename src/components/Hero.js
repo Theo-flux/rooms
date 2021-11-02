@@ -5,8 +5,6 @@ import {mobileRooms,desktopRooms, Arrow, title, copy} from '../rooms'
 import CTA from './CTA'
 import About from './About'
 
-const border = "border:1px solid magenta;"
-
 const moveIn = keyframes `
 	from {
 		opacity: 0;

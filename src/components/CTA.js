@@ -1,7 +1,5 @@
 import styled , {keyframes} from 'styled-components'
 
-const border = "border:1px solid magenta;"
-
 const textFade = keyframes `
 	from {
 		opacity: 0;
@@ -80,7 +78,7 @@ export default function CTA({title, copy, arrow}) {
 		<CallTOAction>
 			<h3>{title}</h3>
 			<p>{copy}</p>
-			<span><small>SHOP NOW</small> <img src={arrow} /></span>
+			<span><small>SHOP NOW</small> <img src={arrow} alt="arrow"/></span>
 		</CallTOAction>
 	)
 } 

@@ -2,8 +2,6 @@ import {useRef, useState, useEffect} from 'react'
 import styled, {keyframes} from 'styled-components'
 import {Logo, Menu, Close} from '../rooms'
 
-const border = "border:1px solid magenta;"
-
 const navIn = keyframes `
 	from {
 		opacity: 0;
